@@ -2,10 +2,10 @@ def bubble_sort(array)
   loop do
     swapped = false # indicator for when to stop the loop
     (array.length - 1).times do |i|
-    if array[i] > array[i + 1]
-        array[i], array[i + 1] = array[i+1], array[i]
+      if array[i] > array[i + 1]
+         array[i], array[i + 1] = array[i+1], array[i]
             swapped = true
-    end
+      end
     end
     break if not swapped
   end
