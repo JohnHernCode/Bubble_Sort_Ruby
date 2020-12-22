@@ -21,11 +21,11 @@ Type `ruby bubble_sort.rb` in terminal
 
 ## Authors
 
-👤 **Gustavo Carvalho**
+👤 **Gustavo Silva de Carvalho**
 
-- GitHub: [Gustavo Carvalho](https://github.com/Mohamed-js)
-- Twitter: [@MohammedAtef](https://twitter.com/Demovejetta)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-atef-032b6b1b0/)
+- GitHub: [@gscarv13](https://github.com/gscarv13)
+- Twitter: [@Gscarv13](https://twitter.com/Gscarv13)
+- LinkedIn: [Gustavo Carvalho](https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/)
 
 👤 **John hernandez**
 
